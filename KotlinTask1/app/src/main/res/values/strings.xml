@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinTask1</string>
+    <string name="Add_Button">Добавить</string>
+</resources>
